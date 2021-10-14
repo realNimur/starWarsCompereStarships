@@ -1,0 +1,7 @@
+.item-starship td{
+    border: 1px solid #000;
+}
+.item-starship {
+    border-collapse: collapse;
+    border: 1px solid #000;
+}

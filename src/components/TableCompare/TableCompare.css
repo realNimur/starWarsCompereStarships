@@ -1,0 +1,10 @@
+.table__caption{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.table td p a{
+    display: block;
+}
+.table{
+    background: #fff;
+}
