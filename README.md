@@ -1,3 +1,7 @@
+# Описание
+
+Сравнение космических кораблей из Star Wars. Запрос на АПИ и дальнешее сравнение в таблице. В таблице выделяются лучший и худший вариант. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
